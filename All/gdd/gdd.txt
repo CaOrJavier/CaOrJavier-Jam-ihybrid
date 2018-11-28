@@ -1,0 +1,22 @@
+personajes:
+ 	prota: Perro pistola con sombreros,
+		perroestilo doge con una pistoloa en la voca, los sombreros le dan poderes a la pistola, empiezacon un sombrero y se ban acumulando uno encima de otro.
+		al disparar ladra y tiene retroceso.
+
+	Enemigo 1: gato cartero.
+		gato que te ataca a  mele, es un gato concuerpo de paquete;
+	
+Escenario:
+	En un campo avierto, por que de casualidad con majia se an unido los objetos al preoat;
+
+Estilo:
+	Lowpoly con gamama de colores  tipo como los de https://twitter.com/minionsart
+
+Jugavilidad:
+	Juego en tercera persona inspirarado en the binding of issaac y enter the gungeon, pero todo pasa en un mismo escenario
+	tienes 3 vidas, disparas y matas al enemigo 1 de un golpe, dispara valas de energuia.
+	los enemigos aparecen por rondas.
+	al aparecerlos enemigos, primero aparece como una señal y luego aparecen.
+	pantalla de u¡inicio solo tendra start.
+	
+		
